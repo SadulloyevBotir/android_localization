@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Localization</string>
+    <string name="str_english">Ingliz tili</string>
+    <string name="str_russian">Rus tili</string>
+    <string name="str_uzbek">Uzbek tili</string>
+    <string name="str_example">Android (yunoncha andro — „inson, erkak“, oid qoʻshimchasi — „robot“; „odamsimon robot“) — smartfonlar, planshetlar, elektron kitoblar, raqamli pleyerlar, qoʻl soatlari, fitnes bilakuzuklar, oʻyin pristavkalari, noutbuklar, netbuklar, smartbuklar, Google Glass koʻzoynaklari[2], televizorlar[3], proyektorlar hamda boshqa qurilmalar (2015-yilda avtomobil koʻngilochar tizimlari[4] va maishiy robotlarga ham oʻrnatildi) uchun operatsion tizim hisoblanadi.</string>
+</resources>

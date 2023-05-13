@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Localization</string>
+    <string name="str_english">English</string>
+    <string name="str_russian">Russian</string>
+    <string name="str_uzbek">Uzbek</string>
+    <string name="str_example"> Android (from Greek andro - "man, male", relative suffix - "robot"; "humanoid robot") - smartphones, tablets, e-books, digital players, wristwatches, fitness bracelets, game consoles, laptops, netbooks, smartbooks, Google Glass is an operating system for glasses[2], televisions[3], projectors, and other devices (in 2015, it was also installed in car entertainment systems[4] and household robots).</string>
+</resources>
